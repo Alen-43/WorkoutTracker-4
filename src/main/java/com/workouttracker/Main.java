@@ -20,10 +20,7 @@ public class Main {
         
                 UIManager.setLookAndFeel(UIManager.getSystemLookAndFeelClassName());
 
-                System.out.println("==================================================");
-                System.out.println("     Workout Tracker Desktop Application          ");
-                System.out.println("     Status: Running on Java " + System.getProperty("java.version"));
-                System.out.println("==================================================");
+                
 
                 // Open the GUI window if in a display-capable environment
                 if (!GraphicsEnvironment.isHeadless()) {
