@@ -1,0 +1,11 @@
+*.class
+out/
+target/
+bin/
+*.db
+*.sqlite
+*.sqlite3
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
