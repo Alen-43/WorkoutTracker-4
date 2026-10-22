@@ -22,7 +22,7 @@ public class Main {
 
                 
 
-                // Open the GUI window if in a display-capable environment
+                
                 if (!GraphicsEnvironment.isHeadless()) {
                     WorkoutTrackerFrame frame = new WorkoutTrackerFrame();
                     frame.setVisible(true);
